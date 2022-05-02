@@ -1,11 +1,10 @@
  Hi there 👋
- I'm Parsa ✨
-A young and dedicated Blockchain Developer 🚀 who has been working professionally in developing and writing the Smart Contracts, 
+ 
+I'm Parsa ✨
+ 
+:trident: A young and dedicated Blockchain Developer 🚀 who has been working professionally in developing and writing the Smart Contracts, 
 Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fantom, Solana, Near and Hyperledger for nearly 7 years.
-I enjoy experimenting with Blockchain and contributing to the Open Source Society.
-
-
-parsaaba's GitHub stats parsaaba's Most used languages
+:cyclone: I enjoy experimenting with Blockchain and contributing to the Open Source Society.
 
 profile views
 
