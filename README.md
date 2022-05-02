@@ -10,6 +10,10 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
 🛠️ Skills and Technologies
 
 solidity hyperledgerfabric rust web3.js ethers.js typescript javascript react python html css git mysql linux docker github npm yarn tailwindcss bootstrap jira
+
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
+
 <!--
 
 -->
