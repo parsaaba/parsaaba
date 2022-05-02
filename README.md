@@ -1,5 +1,5 @@
 
-🛠️ Skills and Technologies
+ Skills and Technologies
 
 solidity hyperledgerfabric rust web3.js ethers.js typescript javascript react python html css git mysql linux docker github npm yarn tailwindcss bootstrap jira
 
@@ -16,18 +16,7 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
 - ⚡ I enjoy experimenting with Blockchain and contributing to the Open Source Society.
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/parsa-bahmani-blockchainirc/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="parsaaba" height="30" width="40" /></a> 
- <a href="https://twitter.com/cryptopba" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="parsaaba" height="30" width="40" /></a> 
-</p>
-<br>
-
-<h3 align="left">Skills and Technologies Tools:</h3>
+<h3 align="left">🛠️ Skills and Technologies Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -69,20 +58,16 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
 
-<br>
-
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=parsaaba&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="parsaaba" 
     bg_color=#808080/></p>
 
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsaaba&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="parsaaba" /></p>
 
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parsaaba&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="parsaaba" /></p>
 
