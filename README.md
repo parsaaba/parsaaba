@@ -1,27 +1,15 @@
- Hi there 👋
- 
-I'm Parsa ✨
- 
-:trident: A young and dedicated Blockchain Developer 🚀 who has been working professionally in developing and writing the Smart Contracts, 
-Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fantom, Solana, Near and Hyperledger for nearly 7 years.
-
-:cyclone: I enjoy experimenting with Blockchain and contributing to the Open Source Society.
 
 🛠️ Skills and Technologies
 
 solidity hyperledgerfabric rust web3.js ethers.js typescript javascript react python html css git mysql linux docker github npm yarn tailwindcss bootstrap jira
 
-
-
-
-<h1 align="center">Hi 👋, I'm Parsa Ba</h1>
+<h1 align="center">Hi there 👋, I'm Parsa Ba</h1>
 <h3 align="center">Blockchain Developer🌟.</h3>
 <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=parsaaba&label=Profile%20views&color=0e75b6&style=flat"
     alt="parsaaba" /> 
   </p>
-<br>
-<p><img align="right" src="https://github.com/parsaaba/parsaaba/blob/main/animation_500_kxa883sd.gif" alt="parsaaba" /></p>
+
 
 - 🌱 A young and dedicated Blockchain Developer 🚀 who has been working professionally in developing and writing the Smart Contracts, 
 Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fantom, Solana, Near and Hyperledger for nearly 7 years.
