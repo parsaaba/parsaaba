@@ -3,7 +3,9 @@
 
 solidity hyperledgerfabric rust web3.js ethers.js typescript javascript react python html css git mysql linux docker github npm yarn tailwindcss bootstrap jira
 
-<h1 align="center">Hi there 👋, I'm Parsa Ba</h1>
+</div>
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;Bonjour+tout+le+monde+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;Hello+World%F0%9F%91%8B"></div>
+<h1 align="center">I'm Parsa Ba</h1>
 <h3 align="center">Blockchain Developer🌟.</h3>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=parsaaba&label=Profile%20views&color=0e75b6&style=flat"
     alt="parsaaba" /> 
