@@ -7,9 +7,8 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
 
 :cyclone: I enjoy experimenting with Blockchain and contributing to the Open Source Society.
 
-:profile views:
-
 🛠️ Skills and Technologies
+
 solidity hyperledgerfabric rust web3.js ethers.js typescript javascript react python html css git mysql linux docker github npm yarn tailwindcss bootstrap jira
 <!--
 
