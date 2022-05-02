@@ -11,7 +11,6 @@
 Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fantom, Solana, Near and Hyperledger for nearly 7 years.
 
 - ⚡ I enjoy experimenting with Blockchain and contributing to the Open Source Society.
-<br>
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
@@ -51,8 +50,6 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsaaba&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="parsaaba" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parsaaba&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="parsaaba" /></p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
