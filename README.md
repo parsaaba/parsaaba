@@ -5,7 +5,6 @@ solidity hyperledgerfabric rust web3.js ethers.js typescript javascript react py
 
 <h1 align="center">Hi there 👋, I'm Parsa Ba</h1>
 <h3 align="center">Blockchain Developer🌟.</h3>
-<br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=parsaaba&label=Profile%20views&color=0e75b6&style=flat"
     alt="parsaaba" /> 
   </p>
@@ -28,7 +27,7 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
 </p>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills and Technologies Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
