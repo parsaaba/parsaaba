@@ -20,13 +20,8 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
     bg_color=#808080/></p>
 
 
-### 📊 Github Stats
-  
-![Stats Overview](https://raw.githubusercontent.com/parsaaba/parsaaba/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/parsaaba/parsaaba/output/generated/languages.svg)
-
 <br>
-<!-- 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsaaba&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="parsaaba" /></p>
 
@@ -40,8 +35,6 @@ Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fa
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- -->
-<!--
 
 -->
 
