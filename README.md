@@ -7,8 +7,13 @@
   </p>
 
 
-- 🌱 A young and dedicated Blockchain Developer 🚀 who has been working professionally in developing and writing the Smart Contracts, 
-Decentralized Web3.0 applications using Ethereum, Binance, Polygon, Avalanch, Fantom, Solana, Near and Hyperledger for nearly 7 years.
+- 🌱 I have worked on many DeFi, DEX, DAO, NFT marketplace and DApps based on Ethereum blockchain, Binance smart chain, Polygon, Avalanche Fantom, Solana, Near and Hyperledger and I have extensive 7 + years of experience in developing and writing Smart Contracts for Ethereum compatible networks and NonEthereum compatible networks.
+I have also used Web3 to integrate several Smart contracts of different blockchain to frontend designs. I have 5 + years of experience using web3 and ethers.js.
+I handle technology in-house and have platforms built in the USA, Canada, Europe and middle east for token distribution including:
+- Smart contract for ICO, Airdrop, Presale, Private Sale, Staking, Farming - Non-fungible token development and IPFS integration
+- Lending and sales platform creations
+- NFT marketplace platform creations
+- On-platform(web/mobile) wallet creations
 
 - ⚡ I enjoy experimenting with Blockchain and contributing to the Open Source Society.
 
