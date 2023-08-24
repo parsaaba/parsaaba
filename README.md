@@ -7,7 +7,7 @@
   </p>
 
 
-- 🌱 As a Senior Blockchain Developer with over 8 years of experience, I specialize in developing and writing smart contracts for both EVM and non-EVM blockchain networks. I also have extensive experience in core blockchain development using Golang and Rust. My expertise extends to a wide range of DApp development, including Metaverse, DeFi (DEX), DAO, and NFT marketplaces, using various blockchain networks such as Ethereum, BNB Chain, Polygon, Avalanche, and Solana.
+- 🌱 As a Senior Blockchain Developer with over 8 years of experience, I specialize in developing and writing smart contracts for both EVM and non-EVM blockchain networks. I also have extensive experience in core blockchain development using Golang and Rust. My expertise extends to a wide range of DApp development, including Decentralized Finance (DeFi, DEX, CBDC), Metaverse, DAO, and NFT marketplaces, using various blockchain networks such as Ethereum, BNB Chain, Polygon, Avalanche, and Solana.
 
 I handle technology in-house and have platforms built in the USA, Canada, Europe and middle east for token distribution including:
 - Smart contract for ICO, Airdrop, Presale, Private Sale, Staking, Farming - Non-fungible token development and IPFS integration
