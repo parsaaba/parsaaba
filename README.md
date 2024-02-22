@@ -1,24 +1,6 @@
-</div>
-<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hello+World+%F0%9F%91%8B;Bonjour+tout+le+monde+%F0%9F%91%8B;Hallo+Welt%F0%9F%91%8B;Hello+World%F0%9F%91%8B"></div>
-<h1 align="center">I'm Parsa Ba</h1>
-<h3 align="center">Lead Blockchain Engineer🌟.</h3>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=parsaaba&label=Profile%20views&color=0e75b6&style=flat"
-    alt="parsaaba" /> 
-  </p>
-
-
-- 🌱 As a Senior Blockchain Developer with over 8 years of experience, I specialize in developing and writing smart contracts for both EVM and non-EVM blockchain networks. I also have extensive experience in core blockchain development using Golang and Rust. My expertise extends to a wide range of DApp development, including Decentralized Finance (DeFi, DEX, CBDC), Metaverse, DAO, and NFT marketplaces, using various blockchain networks such as Ethereum, BNB Chain, Polygon, Avalanche, and Solana.
-
-I handle technology in-house and have platforms built in the USA, Canada, Europe and middle east for token distribution including:
-- Smart contract for ICO, Airdrop, Presale, Private Sale, Staking, Farming - Non-fungible token development and IPFS integration
-- Lending and sales platform creations
-- NFT marketplace platform creations
-- On-platform(web/mobile) wallet creations
-
-- ⚡ I enjoy experimenting with Blockchain and contributing to the Open Source Society.
-
 
 ## Tech stack
+[![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org/)
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
@@ -45,23 +27,4 @@ I handle technology in-house and have platforms built in the USA, Canada, Europe
 
 
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=parsaaba&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="parsaaba" 
-    bg_color=#808080/></p>
 
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parsaaba&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="parsaaba" /></p>
-
-
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=parsaaba&bg_color=0d1117&text_color=ffffff" alt="parsaaba" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
