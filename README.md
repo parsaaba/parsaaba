@@ -1,4 +1,6 @@
 
+Blockchain expert since 2013 building on-chain
+
 ## Tech stack
 [![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org/)
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
